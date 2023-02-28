@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b609687c","path":"/pages/tools/vscode/vscode-shortcuts.html","title":"vscode快捷键大全","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"快捷键大全","slug":"快捷键大全","link":"#快捷键大全","children":[]}],"git":{"updatedTime":1677601598000},"filePathRelative":"pages/tools/vscode/vscode-shortcuts.md"}');export{e as data};

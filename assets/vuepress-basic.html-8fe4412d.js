@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7d145f15","path":"/guide/vuepress/vuepress-basic.html","title":"vuepress搭建教程-基础","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1677601598000},"filePathRelative":"guide/vuepress/vuepress-basic.md"}');export{e as data};
